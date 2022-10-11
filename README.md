@@ -1,6 +1,8 @@
 # NameGenarator
-## A python name generator using basic python libraries, Random and String to generate Names when you pass in three arguments 
-Built with python:
+A python name generator using basic python libraries, Random and String to generate Names when you pass in three arguments 
+
+> Built with python
+
 How to Use:
 1. Download this repository
 2. Unzip the repo
