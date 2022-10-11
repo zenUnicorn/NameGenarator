@@ -3,7 +3,7 @@ A python name generator using basic python libraries, Random and String to gener
 
 > Built with python
 
-How to Use:
+## How to Use:
 1. Download this repository
 2. Unzip the repo
 3. Opne Command Prompt or your Terminal in the unzipped folder
